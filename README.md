@@ -1,5 +1,5 @@
 # FFS
-McIlroy et al. 2020 ISMEJ
+McIlroy SE, JCY Wong, DM Baker (2020) Competitive traits of coral symbionts may alter the structure and function of the microbiome. ISMEJ https://doi.org/10.1038/s41396-020-0697-0
 
 
 File Description: "ISMEJ_FFS_RawData.csv"
